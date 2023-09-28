@@ -1,0 +1,35 @@
+.navbar-brand p {
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+  color: black;
+  font-size: 30px;
+}
+.navbar {
+  background-color: grey;
+  border: 3px solid black;
+}
+body {
+  margin: 0;
+}
+#main {
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+  text-align: center;
+  font-size: 40px;
+}
+#para {
+  text-align: center;
+  border: solid 3px black;
+  background-color: grey;
+}
+#para h1 {
+  font-weight: bold;
+  font-size: 30px;
+}
+.nav li a {
+  text-align: center;
+  font-weight: bold;
+}
+.nav li {
+  border-bottom: 2px solid black;
+}
